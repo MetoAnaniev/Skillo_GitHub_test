@@ -2,9 +2,9 @@ public class PrintFullName {
 
     public static void main(String[] args) {
 
-        String firstName = "Metodi";
-        String fatherName = "Aleksandrov";
-        String lastName = "Ananiev";
+        String firstName = "Desislava";
+        String fatherName = "Iankova";
+        String lastName = "Goranova";
 
         System.out.println(firstName +" "+ fatherName +" "+ lastName);
 

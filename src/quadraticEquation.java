@@ -5,9 +5,9 @@ public class quadraticEquation {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter the value of a: ");
         double a = input.nextDouble();
-        System.out.print("Enter the value of b: ");
+        System.out.print("Enter value of b: ");
         double b = input.nextDouble();
-        System.out.print("Enter the value of c: ");
+        System.out.print("Enter value of c: ");
         double c = input.nextDouble();
         double d= b * b - 4.0 * a * c;
         if (d> 0.0)
